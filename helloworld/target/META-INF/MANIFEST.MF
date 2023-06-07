@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Built-By: qingliu
+Class-Path: mybatis-3.5.9.jar
+Created-By: Apache Maven 3.8.1
+Build-Jdk: 1.8.0_282
+Main-Class: org.example.App
+

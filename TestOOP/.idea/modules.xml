@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ABCStress/ABCStress.iml" filepath="$PROJECT_DIR$/ABCStress/ABCStress.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestCollection/TestCollection.iml" filepath="$PROJECT_DIR$/TestCollection/TestCollection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestCommon/TestCommon.iml" filepath="$PROJECT_DIR$/TestCommon/TestCommon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestCommonClass/TestCommonClass.iml" filepath="$PROJECT_DIR$/TestCommonClass/TestCommonClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestException/TestException.iml" filepath="$PROJECT_DIR$/TestException/TestException.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestGeneric/TestGeneric.iml" filepath="$PROJECT_DIR$/TestGeneric/TestGeneric.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestOOP.iml" filepath="$PROJECT_DIR$/TestOOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestOOP2/TestOOP2.iml" filepath="$PROJECT_DIR$/TestOOP2/TestOOP2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestThread/TestThread.iml" filepath="$PROJECT_DIR$/TestThread/TestThread.iml" />
+    </modules>
+  </component>
+</project>

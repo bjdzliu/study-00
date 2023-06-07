@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="filterDemo1:war">
+    <output-path>$PROJECT_DIR$/filterDemo1/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>filterDemo1</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="filterDemo1-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="filterDemo1:war exploded" />
+    </root>
+  </artifact>
+</component>
