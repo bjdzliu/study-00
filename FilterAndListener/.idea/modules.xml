@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/FilterAndListener.iml" filepath="$PROJECT_DIR$/FilterAndListener.iml" />
       <module fileurl="file://$PROJECT_DIR$/filterDemo1/filterDemo1.iml" filepath="$PROJECT_DIR$/filterDemo1/filterDemo1.iml" />
       <module fileurl="file://$PROJECT_DIR$/filterDemo2/filterDemo2.iml" filepath="$PROJECT_DIR$/filterDemo2/filterDemo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/filterDemo3/filterDemo3.iml" filepath="$PROJECT_DIR$/filterDemo3/filterDemo3.iml" />
     </modules>
   </component>
 </project>
